@@ -1,0 +1,9 @@
+<?xml version='1.0' encoding='utf-8'?>
+<credito>
+	<nombre-sistema>RapiBanco</nombre-sistema>
+	<localizacioin>Guatemala</localizacioin>
+	<numero-de-tarjeta>5744837384373</numero-de-tarjeta>
+	<cliente-id>45465 </cliente-id>
+	<nombre>Mario</nombre>
+	<estado>Activo</estado>
+</credito>
